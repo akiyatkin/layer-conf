@@ -1,0 +1,8 @@
+{
+	"name":"akiyatkin/layer-conf",
+	"require":{
+		"infrajs/event":"~1",
+		"infrajs/config":"~1",
+		"infrajs/controller":"~1"
+	}
+}
