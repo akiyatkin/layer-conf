@@ -4,6 +4,7 @@
 	"require":{
 		"infrajs/event":"~1",
 		"infrajs/config":"~1",
+		"infrajs/template":"~1",
 		"infrajs/controller":"~1"
 	}
 }
