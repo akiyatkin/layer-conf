@@ -1,6 +1,5 @@
 {
 	"name":"akiyatkin/layer-conf",
-	"license": "GPL3",
 	"require":{
 		"infrajs/event":"~1",
 		"infrajs/config":"~1",
